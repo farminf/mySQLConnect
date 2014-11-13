@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mySQL Connect</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_record">New Record</string>
+    <string name="lat_title">Latitude:</string>
+    <string name="lon_title">Longitude:</string>
+    <string name="description">Description:</string>
+    <string name="page_title_allrecords">All Records</string>
+    <string name="page_title_newrecord">Insert new record</string>
+    <string name="page_title_editrecord">Edit Record</string>
+    
+</resources>
